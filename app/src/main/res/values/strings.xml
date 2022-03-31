@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CobaFragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dua">2</string>
+    <string name="tiga">3</string>
+    <string name="benar">JAWABAN ANDA: Benar</string>
+    <string name="salah">JAWABAN ANDA: Salah</string>
+    <string name="soal1">5-3=?</string>
+    <string name="close">Selesai</string>
+    <string name="open">Mulai</string>
+
+    <string name="exception_message">must implement OnFragmentInteractionListener</string>
+</resources>
